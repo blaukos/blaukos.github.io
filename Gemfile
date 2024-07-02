@@ -1,1 +1,1 @@
-
+gem "jekyll-default-layout"
