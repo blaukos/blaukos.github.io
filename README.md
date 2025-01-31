@@ -6,3 +6,5 @@ This page is going to be the main page of the site, or what would be index.html 
 Doing this time a modification that should be linked to the project.
 
 Adding the third line of text in the document.
+
+Adding a fourth line in order to test Gitnuro
