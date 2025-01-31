@@ -14,3 +14,5 @@ Adding a fifth line to test Gitkraken
 Adding one more line for testing Sourcetree
 
 Testing tokens for Gitnuro
+
+Testing tokens for Gittyup
