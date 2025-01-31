@@ -10,3 +10,5 @@ Adding the third line of text in the document.
 Adding a fourth line in order to test Gitnuro
 
 Adding a fifth line to test Gitkraken
+
+Adding one more line for testing Sourcetree
